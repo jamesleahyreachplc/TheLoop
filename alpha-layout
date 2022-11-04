@@ -2,12 +2,28 @@
 <html>
 <head>
 <style>
+#News img {
+float:right;
+height:150px;
+padding:5px;
+}
+
+#branding {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 body {background-color: #F8BD41;}
 h1   {
 color: #3D5161;
 margin-top: 0px;
+font-family:Tahoma;
 }
-p    {color: #3D5161;}
+p    {
+color: #3D5161;
+font-family:Tahoma;
+}
 #myHeader {
 background-color: #fed780;
 padding: 20px;
@@ -15,11 +31,11 @@ margin:20px
 }
 
 </style>
+<div id="branding">
+<img src="https://github.com/jamesleahyreachplc/TheLoop/blob/main/3-The%20Loop-bg.png?raw=true" alt="Italian Trulli">
+</div>
 </head>
 <body>	
-<div>
-<img src="https://media.very.ie/i/littlewoodsireland/V8TNW_SQ1_0000000017_RED_SLf/red-fairisle-teapot.jpg?$234x312_retinax2$" alt="Italian Trulli">
-</div>
 <div id="Intro">
 <div id="myHeader">
 <h1>Hello</h1>
@@ -35,13 +51,16 @@ Some of us dinosaurs are still trying to figure out how to log in to our laptops
 <p>Belfast Live have been trailblazers in setting positive examples for our other live brands to follow. Great work guys! </p>
 </div>
 </div>
-<div id="Marketing">
+<div id="News">
 <div id="myHeader">
 <h1>News</h1>
+<img src="https://github.com/jamesleahyreachplc/TheLoop/blob/main/3-The%20Loop-bg.png?raw=true" alt="Italian Trulli">
 <p>It’s the time of year when our beloved industry peers pass judgement on what we do in the Newsbrands Journalism Awards.
-And that judgement - as we would only expect - is that we have a lot of great people doing a lot of great work.
-Just the tip of all that effort has been recognised in an impressive haul of 18 nominations for Reach titles across the Irish Daily Star, Irish Mirror, irishmirror.ie, dublinlive.ie and our podcast platform.
-We have nominations in 13 out of 23 categories, including all the ones that really matter to what we do – crime, sport, news, politics, showbiz, scoops, digital innovation, video, podcasting, features, headlines, columnists and young journalist.
+And that judgement - as we would only expect - is that we have a lot of great people doing a lot of great work.</p>
+
+<p>Just the tip of all that effort has been recognised in an impressive haul of 18 nominations for Reach titles across the Irish Daily Star, Irish Mirror, irishmirror.ie, dublinlive.ie and our podcast platform.</p>
+<img src="https://github.com/jamesleahyreachplc/TheLoop/blob/main/3-The%20Loop-bg.png?raw=true" alt="Italian Trulli">
+<p>We have nominations in 13 out of 23 categories, including all the ones that really matter to what we do – crime, sport, news, politics, showbiz, scoops, digital innovation, video, podcasting, features, headlines, columnists and young journalist.
 So congratulations to all our nominees (in no particular order!) – Sandra Mallon, John Hand, Paul Healy, Dave Coughlan, Brian Flanagan, Mark McCadden, Kieran Cunningham, Ciaran Bradley, Louise Burne, Jason O’Toole, Michelle Fleming, Neil Leslie, Declan Winters and the teams who produced the Irish Mirror front page ‘Eyesore’. The online Cost of Living Calculator nominated for a digital innovation award (with an honorable mention for former colleagues Ciara Phelan and Karen Morgan recognised for work they did in Reach in the past year).
 It really reflects the depth of resources we now share across titles and platforms, how we are using them to great effect and the future potential.</p>
 
