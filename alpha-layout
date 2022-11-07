@@ -2,17 +2,19 @@
 <html>
 <head>
 <style>
-#News img {
-float:right;
-height:150px;
-padding:5px;
-}
 
-#branding {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+#icon-left img{
+float: left;
+width:33.33%;
+}
+#icon-right img{
+float: left;
+width:33.33%
+
+}
+#logo img{
+float: left;
+width:33.33%
 }
 body {background-color: #F8BD41;}
 h1   {
@@ -27,15 +29,22 @@ font-family:Tahoma;
 #myHeader {
 background-color: #fed780;
 padding: 20px;
-margin:20px
+margin:20px;
 }
 
 </style>
-<div id="branding">
-<img src="https://github.com/jamesleahyreachplc/TheLoop/blob/main/3-The%20Loop-bg.png?raw=true" alt="Italian Trulli">
-</div>
+
 </head>
 <body>	
+<div id="icon-left">
+<img src="https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true" alt="Italian Trulli">
+</div>
+<div id="logo">
+<img src="https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true" alt="Italian Trulli">
+</div>
+<div id="icon-right">
+<img src="https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true" alt="Italian Trulli">
+</div>
 <div id="Intro">
 <div id="myHeader">
 <h1>Hello</h1>
