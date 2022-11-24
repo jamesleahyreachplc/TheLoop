@@ -1,0 +1,43 @@
+<html>
+  <head>
+  </head>
+    <body>
+
+
+<div id="myDIV">
+<div id="mymain" style="height: 200px;
+  display: flex;
+  flex-flow: column row wrap;">
+  <div  style="background-color:coral;width:33vw;margin:5px;">
+     dj
+  </div>
+  <div style="background-color:lightblue;width:33vw;margin:5px;">blue div</div>
+  <div style="background-color:khaki;width:33vw;margin:5px;">yellow div</div>
+  </div>
+<div id="myDIV" style="height:100px;">
+<div id="mymain" style="height: 100px;
+  display: flex;
+  flex-flow: column row wrap;">
+  <div style="background-color:coral; width:25vw;
+  height:100vh;
+  padding:10px;margin:5px;">
+    <h1 style="color:#ffffff;margin-top: 20px;font-family: Tahoma;">Hello</h1>
+    <img 
+        <p style="color: #ffffff;font-family: Tahoma;">As we prepare for the opening of the Dublin office, please contact Jennifer Murray or Michelle Treaciif you do not have a Reach ID pass. It will be great to see everyone once our Dublin Hub is up and running - hopefully in time for Christmas pints! Stay tuned for an official office date and xmas party drinks.</p>
+  </div>
+  <div style="background-color:lightblue;width:80vw;
+  height:100vh;
+  padding:10px;margin:5px">
+    <div id="Intro">
+        <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+          <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Hello</h1>
+          <p style="color: #3D5161;font-family: Tahoma;">Welcome to The Loop, your new monthly newsletter for everyone in Reach Ireland . Get in touch with us at theloopireland@reachplc.com for anything you would like to see us cover.</p>
+        </div>
+      </div>
+    
+  </div>
+</div>
+</div>
+</body>
+
+</html>
