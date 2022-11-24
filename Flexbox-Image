@@ -1,0 +1,51 @@
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <div id="myDIV" style="background-color:#F8BD41;">
+    <div id="mymain" style="height: 10%;
+  display: flex;
+  flex-flow: column row wrap;">
+      <div style="width:25%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:100%;max-height:100%;align:center;display: block;
+  margin-top: auto;margin-bottom: auto;">
+      </div>
+      <div style="width:50%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:25%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+    </div>
+    <div id="myDIV" style="height:100%;">
+      <div id="mymain" style="height: 100%;
+  display: flex;
+  flex-flow: column row wrap;">
+        <div style="background-color:#3D5161; width:20%;
+  padding:10px;margin: 25px 0px 0px 15px;">
+          <h1 style="color:#ffffff;margin-top: 10px;font-family: Tahoma;">Hello</h1>
+
+          <p style="color: #ffffff;font-family: Tahoma;">As we prepare for the opening of the Dublin office, please contact Jennifer Murray or Michelle Treaciif you do not have a Reach ID pass. It will be great to see everyone once our Dublin Hub is up and running - hopefully in time for Christmas pints! Stay tuned for an official office date and xmas party drinks.</p>
+          <img src=https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60 style="width:100%;">
+        </div>
+        <div style="width:80%;
+  padding:10px;margin:5px">
+          <div id="Intro">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Intro</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Welcome to The Loop, your new monthly newsletter for everyone in Reach Ireland . Get in touch with us at theloopireland@reachplc.com for anything you would like to see us cover.</p>
+              <img src=https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60 style="width:100%;">
+            </div>
+          </div>
+      <div id="Intro">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Intro</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Welcome to The Loop, your new monthly newsletter for everyone in Reach Ireland . Get in touch with us at theloopireland@reachplc.com for anything you would like to see us cover.</p>
+              <img src=https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60 style="width:100%;">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+
+</html>
