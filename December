@@ -22,20 +22,20 @@
       <div id="mymain" style="height: 100%;
   display: flex;
   flex-flow: column row wrap;">
-        <div style="background-color:#3D5161; width:20%;
-  padding:10px;margin: 25px 0px 0px 15px;">
+        <div style="background-color:#3D5161; width:25%;
+  padding:10px;margin: 25px 0px 25px 15px;">
+<h1 style="color:#ffffff;margin-top: 10px;font-family: Tahoma;">Hello</h1>
+        <p style="color: #ffffff;font-family: Tahoma;font-size:80%;line-height: 1.4;">Welcome to The Loop,  your monthly newsletter for everyone in  Reach Ireland . Get in touch with us at <a href="mailto:theloopireland@reachplc.com" style="color: #ffffff;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a> for anything you would like to see us cover. This month its all about celebrating our people.</p>
+         <p style="color: #ffffff;font-family: Tahoma;font-size:80%;line-height: 1.4;">As we prepare for the opening of the Dublin office, please contact Jennifer Murray or Michelle Treacy if you do not have a Reach ID pass. This card will be used to access the main building and the office door on the first floor so please make sure you have a card ready for office opening.  You will also need to contact security <a href="mailto:groupsecuritycw@reachplc.com" style="color: #ffffff;font-family: Tahoma;"><b>groupsecuritycw@reachplc.com</b></a> before you go into the office to activate your card. It will be great to welcome everyone back into our snazzy Dublin office. 
 
-        <p style="color: #ffffff;font-family: Tahoma;font-size:60%;line-height: 1.6;">Welcome to The Loop,  your monthly newsletter for everyone in  Reach Ireland . Get in touch with us at <a href="mailto:theloopireland@reachplc.com" style="color: #ffffff;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a> for anything you would like to see us cover.</p>
-         <p style="color: #ffffff;font-family: Tahoma;font-size:60%;line-height: 1.6;">As we prepare for the opening of the Dublin office, please contact Jennifer Murray or Michelle Treacy if you do not have a Reach ID pass. This card will be used to access the main building and the office door on the first floor so please make sure you have a card ready for office opening.  You will also need to contact security  <a href="mailto:groupsecuritycw@reachplc.com" style="color: #ffffff;font-family: Tahoma;"><b>groupsecuritycw@reachplc.com</b></a>  before you go into the office to activate your card. It will be great to welcome everyone back into our snazzy Dublin office. 
-
-As the festive season approaches don’t forget to keep the following dates 
+<br><br>As the festive season approaches don’t forget to keep the following dates 
 Free: 
 
-Belfast office Christmas Friday the 2nd of December in the Harp Bar from 6pm
+<br><br>Belfast office Christmas Friday the 2nd of December in the Harp Bar from 6pm
 
-Dublin Office Christmas party on Friday December 9th - The Celt on Talbot Street from 6pm onwards.
+<br><br>Dublin Office Christmas party on Friday December 9th - The Celt on Talbot Street from 6pm onwards.
 
-We’ll be back in January with the first Loop newsletter of 2023. Until then, wishing you all a safe and happy December and a huge well done to everyone for a successful 2023.
+<br><br>We’ll be back in January with the first Loop newsletter of 2023. Until then, wishing you all a safe and happy December and a huge well done to everyone for a successful 2022. 
 </p>
         </div>
         <div style="width:80%;
@@ -44,11 +44,11 @@ We’ll be back in January with the first Loop newsletter of 2023. Until then, w
             <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
               <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Marketing</h1>
               <p style="color: #3D5161;font-family: Tahoma;">It's surreal to see a world up in November, almost as surreal as not seeing Ireland winning it (not!) but as always Reach has been at the forefront of coverage. 
-<br>This month we launched our World Cup Wall Chart - a perfect addition to all the syndicates! 
-<br>Readers can pick up their glossy chart in print across ROI & NI. After this, a downloadable and printable version was launched, ensuring we reached our widespread online audience with our amazing word cup content.          
-<br>As always, a big well done to the whole marketing team for making this a huge success! 
-<br>Heading west now and we’ve also launched our first brand campaign for our newest live site GalwayBeo. It's great to see the campaign up and running with impactful outdoor print and digital ad formats running throughout the city. Editor Darragh almost crashed his car when he spotted Galway Beo on the big outdoor screen! 
-<br>A massive congratulations to the Belfast Live team who scooped silver at the PANI Award for their ‘Opening Eyes on Homelessness’ campaign. Another amazing example of of the compelling and engaging content coming from the NI team. Well done!
+This month we launched our World Cup Wall Chart - a perfect addition to all the syndicates! 
+Readers can pick up their glossy chart in print across ROI & NI. After this, a downloadable and printable version was launched, ensuring we reached our widespread online audience with our amazing word cup content.          
+As always, a big well done to the whole marketing team for making this a huge success! 
+Heading west now and we’ve also launched our first brand campaign for our newest live site GalwayBeo. It's great to see the campaign up and running with impactful outdoor print and digital ad formats running throughout the city. Editor Darragh almost crashed his car when he spotted Galway Beo on the big outdoor screen! 
+A massive congratulations to the Belfast Live team who scooped silver at the PANI Award for their ‘Opening Eyes on Homelessness’ campaign. Another amazing example of the compelling and engaging content coming from the NI team. Well done!
 </p>
             </div>
           </div>
@@ -56,26 +56,25 @@ We’ll be back in January with the first Loop newsletter of 2023. Until then, w
             <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
               <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">News</h1>
               <p style="color: #3D5161;font-family: Tahoma;">Lots of congratulations to go around this month.  Not least to the Irish Daily Star’s chief reporter Paul Healy and partner Cian who married last Friday in the lovely surrounds of Kinsale.  We would all like to join in wishing them both every future happiness. Congratulations also go to our winners at the recent Newsbrands Irish Journalism Awards where Dave Coughlan was named the Best Sportswriter of the Year.  Mostafa Darwish won podcast of the year for his work with the Irish Examiner’s podcast ‘The Lost American’ while the Irish Daily Star won Headline of the Year for its Kinahan cartel front page splash ‘Kiss Your Assets Dubai.’  Former political correspondent Ciara Phelan was also crowned Young Journalist of the year for a series of exclusive stories published in the Irish Mirror. 
-<br>And well done again to all our nominees who could easily have picked up a gong on the day in many hard-fought categories.  It was great to see so many colleagues flying the flag at the Mansion House.
+And well done again to all our nominees who could easily have picked up a gong on the day in many hard-fought categories.  It was great to see so many colleagues flying the flag at the Mansion House.
 <br>Also this month thanks and well done to Group Environment Correspondent Shauna Corr who delivered first class coverage from the COP 27 summit in Egypt over two weeks for all our titles – while also finding the time to present the new Reach climate podcast Tipping Point which is now live!  Please listen and share. 
-<br>While we are already looking at a busy run-in to the festive season there will no doubt also be opportunities to get together in the weeks ahead!
+<br>                            <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Awards%20winners.jpg?raw=true style="width:50%;margin-top:10px;margin-bottom:10px;margin-left:auto;margin-right:auto;display:block;">
+                <br>While we are already looking at a busy run-in to the festive season there will no doubt also be opportunities to get together in the weeks ahead!
 </p>
-                            <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Awards%20winners.jpg?raw=true style="width:30%;">
-                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/QUiz.jpg?raw=true style="width:30%;">
-                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/pANI.jpg?raw=true style="width:30%;">
-      
+
             </div>
           </div>
           <div id="Commercial">
             <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
               <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Commercial</h1>
-              <p style="color: #3D5161;font-family: Tahoma;">Our commercial teams have been busy busy with some brilliant campaigns in the run up to Christmas and a couple of nice wins heading into 2023. Its a good thing that our Belfast team won big at this year’s PANI awards winning <br><b>Gold award</b> for their‘The Power of Pause campaign along with <br><b>Silver award</b> for ‘Best aimed at growing/enhancing the audience base or benefiting and improving the media brand’ for ‘Opening Eyes on Homelessness’
-<br><b>Silver award</b> for ‘Best Media Owner Sales Team of the Year'
-<br>The same can't be said for the Dublin commercial team who tanked at the Group M charity quiz night. They could be spotted drowing their sorrows with pints of Guinness. Thankfully their selling skills are far better than their general knowledge 
-             
+              <p style="color: #3D5161;font-family: Tahoma;">Our commercial teams have been busy busy with some brilliant campaigns in the run up to Christmas and a couple of nice wins heading into 2023. Its a good thing that our Belfast team won big at this year’s PANI awards winning <b>Gold award</b> for their‘The Power of Pause campaign along with <b>Silver award</b> for ‘Best aimed at growing/enhancing the audience base or benefiting and improving the media brand’ for ‘Opening Eyes on Homelessness’
+<b>Silver award</b> for ‘Best Media Owner Sales Team of the Year'The same can't be said for the Dublin commercial team who tanked at the Group M charity quiz night. They could be spotted drowing their sorrows with pints of Guinness. Thankfully their selling skills are far better than their general knowledge 
+         <br>  <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/QUiz.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/pANI.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">  
              <br> The Dublin team will also be getting a new starter - Tegan McCluskey who she joins us from DMG Media. She brings with her a wealth of digital experience and we can’t wait to welcome her to the team. </p>
 
-<h3 style="color: #3D5161;font-family: Tahoma;">5 minutes with Conall McCann our new Facilites Manager. </h3>
+      
+<h3 style="color: #3D5161;font-family: Tahoma;">5 minutes with Conall McCann our new Facilities Manager. </h3>
 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Connall.jpg?raw=true style="width:25%;">
 
 <h4 style="color: #3D5161;font-family: Tahoma;">Tell us About Yourself</h4>
@@ -94,7 +93,7 @@ We’ll be back in January with the first Loop newsletter of 2023. Until then, w
             <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
               <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Sport</h1>
               <p style="color: #3D5161;font-family: Tahoma;">Congratulations to David Coughlan on winning the Newsbrands Popular Sports Journalist of the year. It's the second time Dave has picked up this award. 
-<br>A shout out to Rob Baker for producing a brilliant World Cup wallchart. His creation helped push sales up in both Star and Mirror.
+A shout out to Rob Baker for producing a brilliant World Cup wallchart. His creation helped push sales up in both Star and Mirror.
 </p>             
             </div>
           </div>          
@@ -109,7 +108,7 @@ We’ll be back in January with the first Loop newsletter of 2023. Until then, w
             <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
               <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Digital</h1>
               <p style="color: #3D5161;font-family: Tahoma;">While the audiences have been turbulent, in part due to factors out of our control, there has been some brilliant content published across our sites in this past month. GalwayBeo and Buzz continue to buck the trend; Galway has set a new audience record for the second consecutive month (with 10 days to spare!), while Buzz is set to break the 1m barrier for the first time. It's set to be a busy time in Irish politics as we get a new Taoiseach next month, and you can keep up with developments through Louise Burne's Party Lines newsletter, which launched last week.
-<a href="https://www.irishmirror.ie/newsletter-preference-centre/"style="color: #3D5161;font-family: Tahoma;">sign-up for newsletter, please!</a>
+<a href="https://www.irishmirror.ie/newsletter-preference-centre/"style="color: #3D5161;font-family: Tahoma;"><b>sign-up for newsletter, please!</b></a>
 </p>
    </div>
           </div>
@@ -117,13 +116,8 @@ We’ll be back in January with the first Loop newsletter of 2023. Until then, w
             <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
               <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Inclusion</h1>
               <p style="color: #3D5161;font-family: Tahoma;">On 2nd December Reach will celebrate International Day of Persons with Disabilities (IDPD) in the Belfast Hub. Globally 1 in 7 of us live with a disability, many which are not immediately apparent known as 'Invisible' (Hidden) disabilities which also have their own set of challenges. The day is marked and organised through the inclusion network ReachAbility who are planning some great stunts along with hosting the following events:
-<br><b>ReachAbility talks with Anna Morell from Disability Rights UK - Tues 29th November, 11am-12pm
-<br>ReachAbility & Fleet Street Fox Susie Boniface - Wed 30th November, 11am-12pm</b>
-<br>Also a big thank you to everyone who completed the Reach D&I survey. Key takeaways from this include;
-<br>- D&I in Ireland needs more relevancy to the Irish offices
-<br> -Its the small stuff that matters, low key events and getting people reconnected and together 
-<br>- Awareness is high for Reach Mind however people have little knowledge on the othe networks. 
-<br>Watch this space for us taking on your feedback and your ideas. We’ll be kicking it off with <b>REACH CHAT</b> - thank you to whoever suggested this! Details to follow soon. 
+<br>ReachAbility talks with Anna Morell from Disability Rights UK - Tues 29th November, 11am-12pm
+Also a big thank you to everyone who completed the Reach D&I survey. Key takeaways from this include; D&I in Ireland needs more relevancy to the Irish office, Its the small stuff that matters, low key events and getting people reconnected and together, Awareness is high for Reach Mind however people have little knowledge on the other networks.  Watch this space for us taking on your feedback and your ideas. We’ll be kicking it off with <b>REACH CHAT</b> - thank you to whoever suggested this! Details to follow soon.
 </p>
             </div>
           </div>
