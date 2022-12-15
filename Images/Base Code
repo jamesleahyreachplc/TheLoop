@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<!-- only copy the highest divs tags into the email the html,head and body tags are not needed -->
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <div id="myDIV" style="background-color:#F8BD41;">
+    <div id="mymain" style="height: 10%;
+  display: flex;
+  flex-flow: column row wrap;padding-top:2%;">
+      <div style="width:35%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;
+  margin-left: auto;margin-right: auto;">
+      </div>
+      <div style="width:30%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:35%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;margin-left: auto;margin-right: auto;"></div>
+    </div>
+    <div id="myDIV" style="height:100%;">
+      <div id="mymain" style="height: 100%;
+  display: flex;
+  flex-flow: column row wrap;">
+        <div style="background-color:#3D5161; width:25%;
+  padding:10px;margin: 25px 0px 25px 15px;">
+<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/REACH_LOGO%20Yellow%20transparent-022.png?raw=true style="width:80%;padding:10px;display: block;margin-left: auto;margin-right: auto;">
+         <p style="color: #ffffff;font-family: Tahoma;font-size:80%;line-height: 1.4;">As we prepare for the opening of the Dublin office, please contact Jennifer Murray or Michelle Treacy if you do not have a Reach ID pass. This card will be used to access the main building and the office door on the first floor so please make sure you have a card ready for office opening.  You will also need to contact security <a href="mailto:groupsecuritycw@reachplc.com" style="color: #ffffff;font-family: Tahoma;"><b>groupsecuritycw@reachplc.com</b></a> before you go into the office to activate your card. It will be great to welcome everyone back into our snazzy Dublin office.
+
+<br><br>As the festive season approaches don’t forget to keep the following dates 
+Free: 
+
+
+           <br><br><b>2nd of December</b>, Belfast office Christmas Party - Harp Bar from 6pm
+
+           <br><br><b>9th of December</b>, Dublin Office Christmas party -  The Celt on Talbot Street from 7pm
+
+<br><br>We’ll be back in January with the first Loop newsletter of 2023. Until then, wishing you all a safe and happy December and a huge well done to everyone for a successful 2022. 
+           
+          <br><br> Don't forget to claim your end-of-year gift. Log into <a href="https://yourviewpublic.reachplc.com/dashboard/dashboard-ui/index.html#/landing"style="color: #ffffff;font-family: Tahoma;"><b>YourView</b></a> by midnight on Wednesday 7th December and select either a voucher or donate to charity. 
+</p>
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/RSVP%20front%20pages%20Oct%20&%20Nov-1.png?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/RSVP%20front%20pages%20Oct%20&%20Nov-2.png?raw=true style="width:100%;rotate:-2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/NOLOGS_WC_Wallchart.jpg?raw=true style="width:110%;rotate:2deg">
+           <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Galway%20Beo%20Branding%2006686.jpeg?raw=true style="width:100%;rotate:-2deg">
+           <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Galway%20Beo%20signs%2006595.jpeg?raw=true style="width:100%;rotate:2deg">
+          
+        </div>
+        <div style="width:80%;
+  padding:10px;margin:5px">
+                    <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Hello</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Welcome to The Loop, your monthly newsletter for everyone in  Reach Ireland . Get in touch with us at <a href="mailto:theloopireland@reachplc.com" style="color: #3D5161;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a> for anything you would like to see us cover. This month its all about celebrating our people.
+</p>
+            </div>
+          </div>
+          <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Marketing</h1>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Awards%20winners.jpg?raw=true style="width:50%;margin-top:10px;margin-bottom:10px;margin-left:auto;margin-right:auto;display:block;">
+            </div>
+          </div>
+          <div id="News">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">News</h1>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Awards%20winners.jpg?raw=true style="width:50%;margin-top:10px;margin-bottom:10px;margin-left:auto;margin-right:auto;display:block;">
+              <p style="color: #3D5161;font-family: Tahoma;">Lots of congratulations to go around this month. Not least to the Irish Daily Star’s chief reporter Paul Healy and partner Cian who married last Friday in the lovely surrounds of Kinsale.  We would all like to join in wishing them both every future happiness. Congratulations also go to our winners at the recent Newsbrands Irish Journalism Awards where Dave Coughlan was named the Best Sportswriter of the Year.  Mostafa Darwish won podcast of the year for his work with the Irish Examiner’s podcast ‘The Lost American’ while the Irish Daily Star won Headline of the Year for its Kinahan cartel front page splash ‘Kiss Your Assets Dubai.’  Former political correspondent Ciara Phelan was also crowned Young Journalist of the year for a series of exclusive stories published in the Irish Mirror. And well done again to all our nominees who could easily have picked up a gong on the day in many hard-fought categories.  It was great to see so many colleagues flying the flag at the Mansion House.
+Also this month thanks and well done to Group Environment Correspondent Shauna Corr who delivered first class coverage from the COP 27 summit in Egypt over two weeks for all our titles – while also finding the time to present the new Reach climate podcast Tipping Point which is now live!  Please listen and share. While we are already looking at a busy run-in to the festive season there will no doubt also be opportunities to get together in the weeks ahead!
+</p>
+
+            </div>
+          </div>
+          <div id="Commercial">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Commercial</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Our commercial teams have been busy with some brilliant campaigns in the run-up to Christmas and a couple of nice wins heading into 2023. It's a good thing that our Belfast team won big at this year’s PANI awards winning a Gold award for their Electric Ireland Power of Pause campaign along with a Silver award for Best Media Owner Sales Team of the Year. The same can't be said for the Dublin commercial team who tanked at the Group M charity quiz night. They could be spotted drowning their sorrows with pints of Guinness. Thankfully their selling skills are far better than their general knowledge.
+The Dublin team will also be getting a new starter - Tegan McCluskey who joins us from DMG Media. She brings with her a wealth of digital experience and we can’t wait to welcome her to the team.</p>
+
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/QUiz.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/pANI.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">    
+            </div>
+          </div>
+          <div id="News">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">5 minutes with...</h1>
+              <h2 style="color: #3D5161;font-family: Tahoma;"> Conall McCann our new Facilities Manager. </h2>
+              
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Connall.jpg?raw=true style="width:20%;">
+
+<h4 style="color: #3D5161;font-family: Tahoma;">Tell us About Yourself</h4>
+<p style="color: #3D5161;font-family: Tahoma;">Live and grew up in Belfast, have a young family, and interests include football, GAA, and reading, but these have gone by the wayside a bit since my daughter came along.</p>
+
+<h4 style="color: #3D5161;font-family: Tahoma;">What does your Role Involve</h4>
+<p style="color: #3D5161;font-family: Tahoma;">Without going into too much detail, my role for both Belfast and Dublin offices involves looking after the premises to provide a safe and comfortable environment to help enable building users to perform each of their roles and also ensuring that the two buildings are compliant.</p>
+
+<h4 style="color: #3D5161;font-family: Tahoma;">Top 5 Dinner Guests</h4>
+<p style="color: #3D5161;font-family: Tahoma;">George Best, Billy Connelly, Zinedine Zidane. Paudi O' Shea and my grandfather.</p>
+
+
+            </div>
+          </div>
+          <div id="Sport">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Sport</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Congratulations to David Coughlan on winning the Newsbrands Popular Sports Journalist of the year. It's the second time Dave has picked up this award. A shout-out to Rob Baker for producing a brilliant World Cup wallchart. His creation helped push sales up in both Star and Mirror.
+</p>             
+            </div>
+          </div>          
+          <div id="Circulation">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Circulation</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Our free glossy World Cup wallchart delivered some great lifts for the Irish Daily Mirror (5%), Irish Daily Star (4%), and 2.5% on the Daily Mirror in NI. Premier League fixtures resume mid-December after the World Cup finishes. The October issue of RSVP magazine closed at 19,333, and we are waiting on the RSVP Home special to close in mid-December. The last RSVP Country special of the year went on sale Tuesday 22nd November, in time to hit the Christmas market. Hutch's trial continues to provide some explosive front pages.
+</p>             
+            </div>
+          </div>
+          <div id="Digital">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Digital</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">While the audiences have been turbulent, in part due to factors out of our control, there has been some brilliant content published across our sites in this past month. GalwayBeo and Buzz continue to buck the trend; Galway has set a new audience record for the second consecutive month (with 10 days to spare!), while Buzz is set to break the 1m barrier for the first time. It's set to be a busy time in Irish politics as we get a new Taoiseach next month, and you can keep up with developments through Louise Burne's Party Lines newsletter, which launched last week.
+<a href="https://www.irishmirror.ie/newsletter-preference-centre/"style="color: #3D5161;font-family: Tahoma;"><b>sign-up for newsletter, please!</b></a>
+</p>
+   </div>
+          </div>
+          <div id="Inclusion">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Inclusion</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">On the 2nd of December Reach will celebrate International Day of Persons with Disabilities (IDPD) in the Belfast Hub. Globally 1 in 7 of us live with a disability, many of which are not immediately apparent and known as 'Invisible' (Hidden) disabilities which also have their own set of challenges. 
+
+Also a big thank you to everyone who completed the Reach D&I survey. Key takeaways from this include: D&I in Ireland needs more relevancy to the Irish office, Its the small stuff that matters, low key events and getting people reconnected and together are very important, Reach Mind has a high awareness level however people have little knowledge on the other networks.  Watch this space for us taking on your feedback and your ideas. We’ll be kicking it off with
+ <b>REACH CHAT</b> - thank you to whoever suggested this! Details to follow soon. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+
+</html>
