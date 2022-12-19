@@ -1,0 +1,105 @@
+<html>
+
+<head>
+</head>
+
+<body>
+ <div style="background-color:#F8BD41;">
+  <div id="Header">
+    <div id="mymain" style="height: 100%;display: flex;flex-flow: column row wrap;padding-top:2%;">
+      <div style="width:35%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;
+  margin-left: auto;margin-right: auto;">
+      </div>
+      <div style="width:30%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:35%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;margin-left: auto;margin-right: auto;"></div>
+    </div>
+ 
+          
+        </div>
+      
+	<div style="width:100%;">
+
+         
+											
+	<div id="Hello" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Hello</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Welcome to The Loop, your monthly newsletter for everyone in Reach Ireland. Get in touch with us at <a href="mailto:theloopireland@reachplc.com" style="color: #3D5161;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a> for anything you would like to see us cover. This month it's all about celebrating our people.
+</p>
+            </div>
+          </div>				
+					
+<div id="Marketing">
+<div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Marketing</h1>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/280822JP2Emerge212.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG_3640.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/Justin%20at%20the%20NI%20Social%20Media%20Awards.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221025-WA0020.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/pANI.jpg?raw=true style="width:100%;margin-top:10px;margin-bottom:10px;">
+            </div>
+          </div>
+         
+					
+<div id="News">
+<div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">News</h1>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/D25564-0105.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+             
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/D25564-0122.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/D25564-0112.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/D25564-0116.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/D25564-0127.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/D25564-0138.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+
+            </div>
+          </div>
+          
+					
+<div id="Commercial">
+<div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Commercial</h1>
+            
+
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/Go%20quest.JPG?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221201-WA0018.jpg?raw=trueLoop/blob/main/pANI.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">  
+	 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221201-WA0095.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+  <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221214-WA0030.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">            
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221214-WA0026.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">  
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221214-WA0028.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+  <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221214-WA0031.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">  
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221214-WA0036.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;"> 
+	<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221214-WA0032.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">                
+	  <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221214-WA0034.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">  
+	
+            </div>
+          </div>
+          
+          <div id="Christmas Party">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Christmas Party</h1>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/Connects.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0005.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0008.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;"> 
+							<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0006.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0007.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0009.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							 
+							 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0012.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0011.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							 <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0013.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0015.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0016.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+						<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0010.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0018.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+							<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Jan-Loop-Branch/Images/IMG-20221215-WA0020.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+						
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+</body>
+
+</html>
