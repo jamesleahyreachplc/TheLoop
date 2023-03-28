@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!-- only copy the highest divs tags into the email the html,head and body tags are not needed -->
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <div id="myDIV" style="background-color:#F8BD41;">
+    <div id="mymain" style="height: 10%;
+  display: flex;
+  flex-flow: column row wrap;padding-top:2%;">
+      <div style="width:35%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;
+  margin-left: auto;margin-right: auto;">
+      </div>
+      <div style="width:30%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:35%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;margin-left: auto;margin-right: auto;"></div>
+    </div>
+    <div id="myDIV" style="height:100%;">
+      <div id="mymain" style="height: 100%;
+  display: flex;
+  flex-flow: column row wrap;">
+        <div style="background-color:#3D5161; width:25%;
+  padding:10px;margin: 25px 0px 25px 15px;">
+<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/REACH_LOGO%20Yellow%20transparent-022.png?raw=true style="width:80%;padding:10px;display: block;margin-left: auto;margin-right: auto;">
+         <p style="color: #ffffff;font-family: Tahoma;font-size:80%;line-height: 1.4;">Our long awaited new  Dublin hub is opening over the next couple of weeks and your line manager will be in touch to arrange meeting up and office induction. Please contact Jennifer Murray or Michelle Treacy if you do not have a Reach ID pass. This card will be used to access the main building and the office door on the first floor so please make sure you have a card ready for office opening. You will also need to contact security  <a href="mailto:groupsecuritycw@reachplc.com" style="color: #ffffff;font-family: Tahoma;"><b>groupsecuritycw@reachplc.com</b></a> before you go into the office to activate your card. Inductions must be completed before staff can attend the office. Some line managers have been inducted - so they can induct their own staff or Michelle, Jenny and Conall can do. 
+          </p>
+
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Irish%20Daily%20Star_26-01-2023_EI_p1-Feb-the%20Loop.jpg?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Daily%20Mirror_26-01-2023_Irish_p1-Feb-the%20Loop.jpg?raw=true style="width:100%;rotate:-2deg">
+           <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/MRZ.22.1ST.RZA.001.jpg?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/MRS.06.1ST.RSA.001.jpg?raw=true style="width:100%;rotate:-2deg">
+         
+          
+        </div>
+        <div style="width:80%;
+  padding:10px;margin:5px">
+                    <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Hello</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Welcome to our February edition of the Loop in 2023. We’ve waved an enthusiastic bye-bye to what felt like a never-ending January and things are looking a lot brighter! We’ve had an amazing start to the year with both editorial and commercial having had some excellent wins. Wishing our colleagues in the south of Ireland a happy bank holiday weekend. Don't forget to get in touch with us at  <a href="mailto:theloopireland@reachplc.com" style="color: #3D5161;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a> for anything you would like to see us cover.
+</p>
+            </div>
+          </div>
+          <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Marketing</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">The marketing team delivered a digital first promotion for Slimming World offering readers the chance to join free of charge using high-impact editorial and advertising formats: articles, newsletters, webstrips, digital display and social media across all NI & ROI sites. This was complemented by pre-promo ads in print, an 8-page recipe pullout in the Irish Daily Mirror & Mirror NI, and two magazines in the Irish Daily Star, Irish Daily Mirror & Mirror NI. We have seen exceptional results across the board.                                                                      <br> Our Adam - Business Publishing Manager with baby Adam ! Thanks Maggie for sharing these adorable photos!
+</p>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Baby%20Adam-Feb-the%20Loop.jpeg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/When%20Adam%20met%20Adam-Feb-the%20Loop.jpeg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+              
+            </div>
+          </div>
+          <div id="News">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">News</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">It has been a typical heads down kind of January on the social front but thankfully there were lots of great stories and reporting going on.
+It was great to see a packed newsroom in the Belfast office when Irish Mirror production staff had a new year meet-up.Some people met for the first time in a long time and some for the first time ever! And we are looking forward to more of the same in 2023. A similar get together for Irish Daily Star production as well as news and reporting colleagues in Dublin will hopefully happen in the brand new Talbot Street office sometime in February. January also saw some great stories and journalism that got the year off to a good start. Some highlights included Paul Healy and Michael O’Toole’s coverage of the Gerry Hutch trial which won over a new audience of listeners to the Star’s Shattered Lives podcast. John Hand who from day one has done the best reporting on one of the big early stories of the year, the sad story of little Alejandro Mizsan who was horrifically attacked by a dog. And Louise Burne who broke new ground on the story of Pascal Donohoe’s election expenses. Finally we would like to wish everyone well with the imminent launch of the <a href="https://www.irishstar.com/" style="color: #3D5161;font-family: Tahoma;"><b>irishstar.com</b></a> and safe travels to the team heading out there to join Ryan Smith. Please follow us on all the social channels and follow our development. 
+</p>
+              
+
+            </div>
+          </div>
+          <div id="Commercial">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Commercial</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Our commercial teams have been busy with a brilliant start to 2023 with big wins and media partnerships such as Beauty Excellence from our NI team whilst the Dublin office has had some great wins from Nicorette, Sensodyne, and Boyle Sports. On top of this, we’ve had a team restructure with Hugh Crowther appointed as Group Sales Director for Reach Solutions in ROI. Hugh now heads up the entire commercial function in the market, continuing our transformation to a digital-first business. When he’s not working, Hugh can be found practising his other passions - darts and debating a juicy conspiracy theory.  Wishing Hugh the very best of luck in his new role. 
+<br>Also a big welcome to Tess Braidner who has joined the commercial team as an intern for 15 weeks from the University of Ulster. 
+</p>
+
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Beauty%20excellence%202%20-Feb-the%20Loop.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">    
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Beauty%20excellence%20-Feb-the%20Loop.jpg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Tess-Feb-the%20Loop.jpg?raw=true style="width:51%;margin-top:10px;margin-bottom:10px;">
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Hugh%20prof%20pic-Feb-the%20Loop.jpg?raw=true style="width:45%;margin-top:10px;margin-bottom:10px;">
+            </div>
+          </div>
+          <div id="News">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">5 minutes with...</h1>
+              <h2 style="color: #3D5161;font-family: Tahoma;"> Michael Marsh, Group Digital Director. </h2>
+              
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Micheal%20Marsh-Feb-the%20loop.jpeg?raw=true style="width:20%;">
+
+<h4 style="color: #3D5161;font-family: Tahoma;">Tell us About Yourself</h4>
+<p style="color: #3D5161;font-family: Tahoma;">Born and bred in Newcastle before moving to the South West of England to work for Newsquest. Have been with TM/Reach for nine years since. Believe it or not, I used to be an athletics reporter in the early days before going into news.</p>
+
+<h4 style="color: #3D5161;font-family: Tahoma;">Last Show You Watched:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">You Don't Know Me</p>
+              
+<h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">Pilot, or a barman at a beach hut...</p>
+
+<h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">Good Guinness, single malt and NUFC...order dependent on mood.</p>
+
+
+            </div>
+          </div>
+          <div id="Sport">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Facilities</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">It is essential Fire & Security requirements that everyone signs in & out of the Belfast office Hub. There is a book as you enter that needs to be filled in on arrival and when leaving the office (even for lunch/meetings etc). This is an official document for Health & Safety or a Fire emergency. Thank you for your cooperation. 
+</p>             
+            </div>
+          </div>          
+          <div id="Circulation">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Circulation</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">The December issue of RSVP sold 20,322 (8% YoY), whilst the RSVP Country Special which went out at the end of November sold 12,418, which is a good number in a very challenging magazine market due to the cost of living crisis. Our Slimming World magazines at the start of January supported by TV and radio delivered some significant sales increases across the Irish Daily Mirror (10%), Irish Sunday Mirror (7%), Daily Mirror (5%), Sunday Mirror (4%) and Irish Daily Star (4%), and has given us a really positive start to the year - ensuring that all titles should finish ahead of the budget forecast for the month of January. Onwards and Upwards!
+</p>             
+            </div>
+          </div>
+          <div id="Digital">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Digital</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">It's been a busy start to the year with lots of comings and goings. Good luck to Rachel Curran, who is now on maternity leave awaiting baby number two. Mark O'Brien is captain of the Dublin Live ship in her absence. Kayla Walsh has also left a big hole in the RSVP team as she embarks on an adventure of a lifetime to Australia, while Ryan Smith is the first member of the <a href="https://www.irishstar.com/" style="color: #3D5161;font-family: Tahoma;"><b>IrishStar.com</b></a> team to jet off to New York ahead of its launch. Welcome back to Blathin DePaor, who has just returned to RSVP from maternity leave. Cian O'Broin has joined the Irish Mirror team from the Limerick Leader, while Darragh Murphy has also moved to the site after a successful stint as Editor of <a href="https://www.buzz.ie/" style="color: #3D5161;font-family: Tahoma;"><b>Buzz.ie</b></a> . Finally, congratulations to John O'Sullivan on his engagement to partner Robynn.
+</p>
+   </div>
+          </div>
+          <div id="Inclusion">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Inclusion</h1>
+              <p style="color: #3D5161;font-family: Tahoma;"> It's important that we all play our part in bringing inclusion to life at Reach. If you’re passionate about increasing the understanding of D&I issues we want to hear from you. We are growing our inclusion network and we’d love you to be part of this. Using the feedback from the D&I surveys we’ve identified four key events we want to roll out next year and we need your help. 
+For more information contact <a href="reachirelandinclusionchampions@reachplc.com" style="color: #3D5161;font-family: Tahoma;"><b>reachirelandinclusionchampions@reachplc.com</b></a>
+
+
+<br>We also want to shine a spotlight on the importance of looking after your health - both mental and physical. Reach colleagues all have access to My Healthy Advantage app which includes access to live chat with qualified counsellors or advisors 24/7, Mini health checks to help you manage your sleep, alcohol intake, BMI and much more. 
+
+
+<br>We also have two qualified mental health first aiders in Ireland -
+Laura Hennessy & Jenny Murray who are always available  if anyone ever needs to talk in confidence. Remember help is always available. For more information please click <a href="https://sites.google.com/reachplc" style="color: #3D5161;font-family: Tahoma;"><b>here</b></a> and for external support please click <a href="https://www.mentalhealthireland.ie/get-support/?external=1c" style="color: #3D5161;font-family: Tahoma;"><b>here</b></a>. 
+ </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+
+</html>
