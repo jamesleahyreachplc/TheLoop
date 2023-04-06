@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<!-- only copy the highest divs tags into the email the html,head and body tags are not needed -->
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <div id="myDIV" style="background-color:#F8BD41;">
+    <div id="mymain" style="height: 10%;
+  display: flex;
+  flex-flow: column row wrap;padding-top:2%;">
+      <div style="width:35%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;
+  margin-left: auto;margin-right: auto;">
+      </div>
+      <div style="width:30%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Logoeastereaster.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:35%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;margin-left: auto;margin-right: auto;"></div>
+    </div>
+    <div id="myDIV" style="height:100%;">
+      <div id="mymain" style="height: 100%;
+  display: flex;
+  flex-flow: column row wrap;">
+        <div style="background-color:#3D5161; width:25%;
+  padding:10px;margin: 25px 0px 25px 15px;">
+<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/REACH_LOGO%20Yellow%20transparent-022.png?raw=true style="width:80%;padding:10px;display: block;margin-left: auto;margin-right: auto;">
+         <p style="color: #ffffff;font-family: Tahoma;font-size:80%;line-height: 1.4;">Make sure to bring your Reach ID card when coming to the Dublin Hub. If you don't have a Reach ID card, please reach out to Michelle or Jenny. We'd love to see your Easter pictures, feel free to share them with us! Wishing you all a safe and happy Easter!</p>
+
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/The%20Loop%20-%20Mar%20-%20front%20pages-1.jpg?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/The%20Loop%20-%20Mar%20-%20front%20pages-2.jpg?raw=true style="width:100%;rotate:-2deg">
+           <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/The%20Loop%20-%20Mar%20-%20front%20pages-3.jpg?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/The%20Loop%20-%20Mar%20-%20front%20pages-4.jpg?raw=true style="width:100%;rotate:-2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/The%20Loop%20-%20Mar%20-%20front%20pages-6.jpg?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/The%20Loop%20-%20Mar%20-%20front%20pages-7.jpg?raw=true style="width:100%;rotate:-2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/The%20Loop%20-%20Mar%20-%20front%20pages-8.jpg?raw=true style="width:100%;rotate:-2deg">
+         
+          
+        </div>
+        <div style="width:80%;
+  padding:10px;margin:5px">
+                    <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Hello</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Welcome to the Easter edition of the Loop! We are delighted to bring you the latest news from across Reach Ireland. As we are preparing for upcoming award ceremonies, and the long weekend we have a lot to be excited about. This issue of the Loop includes highlights from our commercial team's wins and achievements, updates from circulation and production, and a special 5 minutes with Ryan Smith, our editor at IrishStar. Our team in Belfast has been nominated for an award, and our Belfast and Dublin hubs are full of Easter cheer! So, join us as we celebrate the successes of the past quarter, and let us know what else you would like to see us cover by emailing  <a href="mailto:theloopireland@reachplc.com" style="color: #3D5161;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a>. <br>Don't forget to share your Easter photos with us, and have a safe and happy Easter!
+</p>
+            </div>
+          </div>
+          <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Marketing</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Marketing kicked off Cheltenham with their fully integrated campaign across Ireland. They had print pocket guides, bumper preview magazines, daily pullouts & free bets with pre-promo print ads, radio campaigns, and social media campaigns. The live blogs, Robbie Power column, and Peter O'Hehir tips were all heavily promoted. The new horse racing newsletter gained 1,200 new subscribers during the festival. Digital display ads, web strips, Facebook ads, re-engagement campaigns, cross-promotional emails, and a competition to win an overnight stay in Dublin City Centre with access to the Paddy Power Fanzone all helped to boost subscriptions. It's safe to say that Cheltenham was a great success!
+</p>
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Marketing%204.JPG?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Marketing%203.JPG?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Marketing%202.JPG?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+               <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Marketing%20pic.JPG?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+              
+               
+            </div>
+          </div>
+          <div id="News">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">News</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">We'd like to offer congratulations to our features editor Larissa Nolan who celebrated her wedding to Conor McManamly in March. Never one to miss a good story opportunity, we look forward to reading about Larissa and Conor's honeymoon tourism adventures in the Florida Keys in an upcoming travel feature! No pun intended but there were stunning jumps across the Cheltenham week on both the Irish Daily Star and Irish Mirror on both titles for the week. More importantly there were great papers all week from front to back pages for those who bought them. Not least in the top coverage of Ireland's triumphant Grand Slam week. Well done too to political correspondent Louise Burne who did a great job as our woman in Washington this year for the St Patrick's Day White House festivities. Top class reporting online and in print when she wasn't popping up all over the airwaves! 
+<br>Thanks and well done to all the editorial teams for great coverage. 
+               <br> Congratulations to Justin Kernoghan and Mick O'Neill for being shortlisted for the AIB Press Photographer Association of Ireland (PPAI) awards held in Dublin on the 3rd of March. Justin Kernoghan, a Belfast-based photographer, covers a wide range of news and features across Northern Ireland for the Daily Mirror, Irish Star, and Belfast Live. Mick O'Neill has had several front-page images published in the Irish Mirror and Irish Star over the past two years. We can't wait to see what they'll achieve next!
+
+</p>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/News%201.jpg?raw=true style="width:29%;margin-top:10px;margin-bottom:10px;">
+               <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/News%202.jpg?raw=true style="width:68%;margin-top:10px;margin-bottom:10px;">
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/News%20awards%20night%20.jpg?raw=true style="width:55%;margin-top:10px;margin-bottom:10px;">  
+          </div>
+          </div>
+          <div id="Commercial">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Commercial</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">The commercial team has had a positive start to the quarter. They have been actively engaging with agency partners and showcasing their expertise by presenting at various awards. One such event was the "Knowing Me, Knowing You" event where they managed to walk away with two lucrative briefs. The team was thrilled to have the opportunity to build long-lasting relationships with clients.
+<br>Furthermore, during the Cheltenham week, all bookies including Boyles, Betfair, William Hill & LiveScore were heavily active on digital, which was a fantastic sight to see. The cherry on top of all this great news was the announcement that the commercial team has won a year-long Sky partnership from Off the Ball.
+<br>Did you know that news is still a beloved medium for adults? According to NewsBrands Ireland, 82% of adults read a print or online title every week. News lovers are particularly attentive to newspaper and online ads, with an 18% higher likelihood of paying most attention to them compared to the average adult. Newspapers and online ads are ranked among the top three mediums for attention and purchase decisions. NewsBrands Ireland has even launched a new print and digital campaign to celebrate this enduring love for news! More details here 
+<a href="https://www.newsbrandsireland.ie/" style="color: #3D5161;font-family: Tahoma;"><b>newsbrandsireland.ie</b></a>
+              </p>
+
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Commerical%202.png?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">    
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/betfair-com.png?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Commercial-3.jpeg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">    
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/commercial-4.jpeg?raw=true style="width:48%;margin-top:10px;margin-bottom:10px;">
+            </div>
+          </div>
+          <div id="5 mins with">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">5 minutes with...</h1>
+              <h2 style="color: #3D5161;font-family: Tahoma;"> Ryan Editor of <a href="http://irishstar.com/" style="color: #3D5161;font-family: Tahoma;"><b>IrishStar.com</b></a></h2>
+              
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Ryan%20Smith%20.jpeg?raw=true style="width:20%;">
+
+<h4 style="color: #3D5161;font-family: Tahoma;">Tell us About Yourself:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">I joined Reach back in 2015 and have worked as a reporter and editor at Belfast Live, with a brief sojourn to MyLondon in between. I'm on secondment in New York at the moment where I have a bacon and cream cheese bagel every morning and secondly work on <a href="http://irishstar.com/" style="color: #3D5161;font-family: Tahoma;"><b>IrishStar.com</b></a></p>
+
+<h4 style="color: #3D5161;font-family: Tahoma;">What does your role involve:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">I'm the editor of <a href="http://irishstar.com/" style="color: #3D5161;font-family: Tahoma;"><b>IrishStar.com</b></a> - the company's first US site that launched in February. I lead a team based in the US and in Ireland.</p>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/imac-irishstar.png?raw=true style="width:32%;margin-top:10px;margin-bottom:10px;">
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Irish%20Star%20square%20(3).png?raw=true style="width:32%;margin-top:10px;margin-bottom:10px;">
+              
+<h4 style="color: #3D5161;font-family: Tahoma;">Top 5 dinner guests:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">Bob Dylan, Bono, Bruce Springsteen, Axl Rose and Alistair Bushe for the laughs</p>
+
+<h4 style="color: #3D5161;font-family: Tahoma;">Last Show you watched:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">You - no spoilers but I can tell you that there's something not quite right with Joe Goldberg.</p>
+              
+<h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn’t in media:</h4>
+<p style="color: #3D5161;font-family: Tahoma;">A gardener - my nickname at work is 'Green Fingers'.</p>
+              
+             <h2 style="color: #3D5161;font-family: Tahoma;"> Happy Birthday Ryan. Enjoy celebrating in NY this weekend.</h2>
+
+            </div>
+          </div>
+          <div id="Sport">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Facilities</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">We're excited to announce that lockers have been installed in the Dublin office! Now you can store your personal belongings, including laptops, in a safe and secure way. Don't forget to bring your own padlock if you wish to make use of them. If you're looking to book a meeting room, all the details can be found right here. 
+                <a href="https://docs.google.com/document/d/1LhcrhXOdDXIWudpPvdWlb5Niqx2T0R6p31GRr-kkUKU/edit" style="color: #3D5161;font-family: Tahoma;"><b>Dublin</b></a> 
+                <a href="https://docs.google.com/document/d/1LF2Ww21C5-oQs_qaesq6g0rq3D-Fla8Z_8A9IG11D38/edit" style="color: #3D5161;font-family: Tahoma;"><b>Belfast</b></a> 
+                
+</p>             
+            </div>
+          </div>          
+          <div id="Circulation">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Circulation</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Our biggest week of the year is in March and we sold in excess of 90k extra papers week on week across our three daily titles during Cheltenham. But even with this success, the February issue of RSVP still closed at 17,507 - not an easy feat in the current cost of living crisis. Our competitors, such as VIP, Stellar, and Irish Country magazine, have also experienced heavy sales decreases this month. 
+<br>April looks to be packed with newsworthy events, from the visits of two Presidents to the Hutch trial resuming and anniversaries of the Good Friday Agreement. We also have three major racing festivals - the Irish Grand National, Aintree Grand National, and Punchestown - to look forward to at the end of the month.
+</p>             
+            </div>
+          </div>
+          <div id="Digital">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Digital</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Our US team is now fully in place across the pond and already flying with the <a href="https://www.irishstar.com/" style="color: #3D5161;font-family: Tahoma;"><b>IrishStar.com</b></a> surpassing the 1 million page view mark in its first full month. At home, it was a record-breaking month for <a href="https://www.buzz.ie/" style="color: #3D5161;font-family: Tahoma;"><b>Buzz.ie</b></a> made even more impressive due to the small team. Mark Kavanagh moves to steer that ship from the first week of April. March was also a fruitful month for Belfast, Cork and RSVP, despite Facebook's best efforts to stop us in our tracks.
+</p>
+   </div>
+          </div>
+          <div id="Inclusion">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Inclusion</h1>
+              <p style="color: #3D5161;font-family: Tahoma;"> We'd like to give a huge congratulations to the team at Belfast Live who have been nominated by the public as the most supportive media outlet for the LGBTQ+ community for the GNI Awards! The Belfast Hub got the Easter celebrations started early with a fun-filled day of Easter Bingo, Easter Egg Raffle, and Easter treats on Tuesday the 4th of April, all in aid of the amazing charity Extern which supports people who are homeless or facing homelessness. Meanwhile, Easter cheer has spread to Dublin with Easter eggs, chocolate treats, and hot cross buns!
+ </p>
+         <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Belfast%20Easter%202%20bingo.jpeg?raw=true style="width:32%;margin-top:10px;margin-bottom:10px;">
+               <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/Easter%20Belfast%20office.jpg?raw=true style="width:63%;margin-top:10px;margin-bottom:10px;">     
+            </div>
+          </div>
+          <div id="Production">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Production</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">
+                It's nappy days for Production Journalist Jack Brennan! He and wife Kathy welcomed baby Camille, a beautiful addition to their family alongside proud big sister Celine.
+                 </p>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/April-Loop/babycamille.jpg?raw=true style="width:63%;margin-top:10px;margin-bottom:10px;">     
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
