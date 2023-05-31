@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<!-- only copy the highest divs tags into the email the html,head and body tags are not needed -->
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <div id="myDIV" style="background-color:#F8BD41;">
+    <div id="mymain" style="height: 10%;
+  display: flex;
+  flex-flow: column row wrap;padding-top:2%;">
+      <div style="width:35%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;
+  margin-left: auto;margin-right: auto;">
+      </div>
+      <div style="width:30%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:35%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;margin-left: auto;margin-right: auto;"></div>
+    </div>
+    <div id="myDIV" style="height:100%;">
+      <div id="mymain" style="height: 100%;
+  display: flex;
+  flex-flow: column row wrap;">
+
+<!-- Left -->
+        <div style="background-color:#3D5161; width:25%;
+  padding:10px;margin: 25px 0px 25px 15px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/REACH_LOGO%20Yellow%20transparent-022.png?raw=true style="width:80%;padding:10px;display: block;margin-left: auto;margin-right: auto;">
+         <p style="color: #ffffff;font-family: Tahoma;font-size:80%;line-height: 1.4;">...</p>
+         
+          <!-- Print -->
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Irish%20Daily%20Star_26-01-2023_EI_p1-Feb-the%20Loop.jpg?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Daily%20Mirror_26-01-2023_Irish_p1-Feb-the%20Loop.jpg?raw=true style="width:100%;rotate:-2deg">
+           <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/MRZ.22.1ST.RZA.001.jpg?raw=true style="width:100%;rotate:2deg">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/MRS.06.1ST.RSA.001.jpg?raw=true style="width:100%;rotate:-2deg">
+         
+          
+        </div>
+
+<!-- Main Copy -->
+
+        <div style="width:80%;
+  padding:10px;margin:5px">
+                    <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">🌈 The Loop: Celebrating Pride Month! 🌈</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">
+Hello there,! Welcome to this month's edition of The Loop. We've got a special focus for you in this edition: we're diving headfirst into the wonderful world of Pride! 🏳️‍🌈 It's Pride month so its time for us to come together, celebrate, and uplift the voices of the LGBTQ+ community. Not only do we join hands in Ireland, but people around the world join in the celebration of LGBTQ culture, rights, and diversity. In this edition of The Loop, we'll be chatting with Mikie O'Loughlin, our RSVP Showbiz editor, and Aakanksha Surve from Dublin Live. They'll be sharing their personal experiences about what Pride means to them. So grab a cup of coffee (or a rainbow-colored cup if you're feeling fancy) sit back and enjoy. Let's celebrate love, diversity, and the power of being exactly who we are! Happy Pride, everyone! 🌈</p>
+            </div>
+          </div>
+
+          <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">The Pride History</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">The significance of celebrating Pride in June can be traced back to a historic event: the Stonewall Uprising, which ignited the Gay Liberation Movement. In the small hours of June 28, 1969, the police raided a popular gay bar, The Stonewall Inn, nestled in the vibrant streets of N.Y.C.'s West Village. These raids were common at the time. But on that fateful evening, the patrons of the bar stood up and fought back, igniting the flame of the Stonewall Riots, which blazed on for days! Fast forward to today, and we're proud to say that The Stonewall Inn has earned its rightful place in history. It was declared a historic landmark by the city of New York in 2015, and even former President Barack Obama designated it as a national monument in 2016.
+Fact: Did you know that the iconic rainbow flag, created by the talented artist Gilbert Baker in 1978, holds deeper meanings within its vibrant colors? 🏳️‍🌈 red is symbolic of life, orange is symbolic of healing, yellow is sunshine, green is nature, blue represents harmony and purple is spirit. In the original eight-color flag, hot pink was included to represent sex and turquoise to represent magic/art, Talk about a colorful journey!</p>
+            </div>
+          </div>
+
+          <div id="News">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Mikie OLoughlin</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Who would have thought that after the high of the marriage equality referendum in 2015 that eight years later we would be facing our most tense and most important Pride month in Ireland? It is a very worrying and scary time for gay people in Dublin, and Ireland, at the minute, and in my living memory never have we needed an event to share positivity, colour, and inclusivity more. This colour needs to drown out the shouting from the small minority of blank profiles on social media. If you have a gay person in your life, give them a hug this month, send a text and be there for them. It is just a sexuality, we are all the same and we should all be proud of who we are. </p>
+            </div>
+          </div>
+
+          <div id="Commercial">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Aakanksha Surve</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">I remember the time I came out to my parents. I was 27 years old and thousands of miles away. I had gotten engaged to my wonderful wife who had just come out as trans and I had to break the news to my parents. Growing up in India, sexuality was a taboo topic and being gay wasn’t something that was openly discussed. My parents probably never had an inkling I was bisexual. To be honest, neither did I until I hit adulthood and suddenly everything just fell into place. 
+
+
+<br><br>Anyway, it’s 2020, the Covid lockdown is in full swing, and I’m sitting on a really uncomfortable couch in our tiny rented flat in Drumcondra. I tell my parents about my wife and they ask me how I feel about the situation. And despite their mostly supportive reaction, I’m shaking, I’m in tears at this point. I say, ‘Gender doesn’t matter to me. I love the person for who they are and not their gender.’ Now, my parents were no strangers to the coming out talk. Just the year before, my sister came out to them and they were surprisingly accepting. I say surprisingly because my parents grew up in conservative households. Sexuality was never a topic of conversation and I never even got The Talk™ in my teens.
+
+
+<br><br>The first time I went to Pride was in 2018 and it was a near-spiritual experience for me. There was a strong sense of community and I felt safe enough that I could be myself. For the first time in my life, I felt like I truly belonged, Sadly, I haven’t had the chance to go to any other Pride parades in the last few years (both due to Covid and other commitments) but I plan on going this year. I’m grateful that Ireland has given me a safe space to be myself. I believe the country has come a long way for LGTBQ+ rights thanks to the incredible work of all the grassroots campaigners. That being said, we still have a long way to go. The recent brutal assault of a gay teenage boy in Navan and the growing transphobia in our communities are stark reminders of how we can never get complacent. 
+
+
+<br><br>We must never forget how Pride Month began 54 years ago after the Stonewall Riots saw a huge number of protests against the horrific violence against LGBTQ+ people in the United States. We must never forget the blood that was spilt to make the world a better place for minorities. As we march down Dublin city centre this Pride, I will be sure to remember our LGBTQ+ forefathers who fought so bravely for us. </p>
+            </div>
+          </div>
+
+          <div id="Sport">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">What’s on in Dublin</h1>
+                 <h2 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Pride Guide</h2>
+              <p style="color: #3D5161;font-family: Tahoma;">
+                <ul style="color: #3D5161;font-family: Tahoma;">
+                <br><li><b>Saturday June 10th:</b> I’m Grand Mam podcast live in aid of BeLonG To: Kildare Village </li>
+                <br><li><b>Sunday June 18th:</b> The Bon Bon Room - Cabaret Open Stage Pride Special!: The Workman’s Club</li>
+                <br><li><b>Thursday June 22nd:</b> - LGBT Ireland Pride Garden Party: Botanical Garden @Opium</li>
+                <br><li><b>Friday June 23rd & Saturday June 24th:</b> - Mother Block Party: Collins Barracks</li>
+                <li><b>Friday June 23rd:</b> Spinster Pride: Grand Social</li>
+                <li><b>Friday June 23rd:</b> Drink & Draw: Paint Freddy Mercury: The Grand Social</li>
+                <li><b>Friday June 23rd:</b> Pride Egg - A Pride Cabaret Spectacular: BelloBar</li>
+                <br><li><b>Saturday June 24th:</b> Davina Devine and Victoria Secret’s Pride Party with Una Healy: Vicar Street</li>
+                <li><b>Saturday June 24th:</b> Doggy Pride Brunch at Oscars Smithfield: Oscar’s Café Bar</li>
+                <li><b>Saturday June 24th:</b> Pride Disco Drag Brunch: The Well</li>
+                <li><b>Saturday June 24th:</b> Pride Parade: GPO Dublin</li>
+                <br><li><b>Sunday June 25th:</b> Absolut Drag Brunch: Roberta’s</li>
+                <li><b>Sunday June 25th:</b> Sam's Collective presents; RAINBOW TRAFFIC LIGHT PARTY: Wigwam</li>
+              </ul></p>             
+            </div>
+          </div>  
+
+          <div id="Circulation">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">The General Overall News</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">In other news, Sunday Mirror reporter, Emma McMenamy has been shortlisted for the Irish Justice Media Awards. Her outstanding work includes an exclusive interview with Sinead Connolly, a brave victim of a gun attack. Emma spoke to the mum of one Sinead about facing her attackers in court and how she won't let them win, despite being left paralysed after a bullet hit her spine. Emma's nomination is for the Irish Sunday Mirror and the Irish Mirror online. We're also thrilled for Ciaran Bradley and Mostafa Darwish, who has been nominated in the broadcast category for their outstanding work on the Homeless Ireland series. Their reporting sheds light on the issue of homelessness, bringing attention to those in need. 
+
+<br><br>From a circulation standpoint, May has been a good month despite some challenges. Reach titles in NI increased cover price at the start of the month, along with two Bank Holiday issues to contend with due to King Charles's Coronation. Coverage of the Local Council elections delivered a sales uplift of 7% wow, whilst the free Paddy Power golf bets on the US PGA increased sales by 2.5%-3%. Hopefully, the end of the Premier League season should give a strong finish to the month.
+
+<br><br>Finally, after an incredible 28 years, we bid farewell to Kevan 'Furby' Furbank, who leaves Reach. Kevan was integral to building the Irish Editorial production right from the very start. He was also a dab hand as our resident 'geetar' man and entertainer at all our think tanks over the years and almost got us to the no 1 slot with 'we wish you a Mirror Christmas'! He leaves with our best wishes to both him and Lizzie and will have the time now to do much more travelling, drinking a fine red, cooking, writing, reading, and of course spending time with his beloved girls.. Good luck, Furby! You will be greatly missed by all of us at Reach. </p>             
+            </div>
+          </div>
+
+          <div id="Digital">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Digital</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">...</p>
+            </div>
+          </div>
+
+          <div id="Inclusion">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Inclusion</h1>
+              <p style="color: #3D5161;font-family: Tahoma;"> ...</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+</body>
+
+</html>
