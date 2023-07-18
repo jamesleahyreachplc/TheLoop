@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!-- only copy the highest divs tags into the email the html,head and body tags are not needed -->
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <div id="myDIV" style="background-color:#F8BD41;">
+    <div id="mymain" style="height: 10%;
+  display: flex;
+  flex-flow: column row wrap;padding-top:2%;">
+      <div style="width:35%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;
+  margin-left: auto;margin-right: auto;">
+      </div>
+      <div style="width:30%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:35%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;margin-left: auto;margin-right: auto;"></div>
+    </div>
+    <div id="myDIV" style="height:100%;">
+      <div id="mymain" style="height: 100%;
+  display: flex;
+  flex-flow: column row wrap;">
+        <div style="background-color:#3D5161; width:25%;
+  padding:10px;margin: 25px 0px 25px 15px;">
+<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/REACH_LOGO%20Yellow%20transparent-022.png?raw=true style="width:80%;padding:10px;display: block;margin-left: auto;margin-right: auto;">
+         <p style="color: #ffffff;font-family: Tahoma;font-size:80%;line-height: 1.4;">The Dublin hub is now opened. Please contact Jenny and Michelle if you need an access card to enter the main building. Contact groupsecurity in CW to re-activate your Reach ID card. 
+
+Fun fact when Michael Marsh isn’t gardening he also likes Good Guinness, single malt and NUFC..! :) 
+
+Finally, Happy Patrick’s Day everyone… and enjoy Cheltenham week!
+          </p>
+
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/The%20Loop%20-%20Feb%20-%20Front%20pag-6.jpg?raw=true style="width:100%;rotate:2deg; margin-top:20px;">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/The%20Loop%20-%20Feb%20-%20Front%20pag-8.jpg?raw=true style="width:100%;rotate:-2deg; margin-top:20px;">
+           <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/The%20Loop%20-%20Feb%20-%20Front%20pag-1.jpg?raw=true style="width:100%;rotate:2deg; margin-top:20px;">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/The%20Loop%20-%20Feb%20-%20Front%20pag-3.jpg?raw=true style="width:100%;rotate:2deg; margin-top:20px;">
+          <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/The%20Loop%20-%20Feb%20-%20Front%20pag-2.jpg?raw=true style="width:100%;rotate:-2deg; margin-top:20px;">
+         
+         
+          
+        </div>
+        <div style="width:80%;
+  padding:10px;margin:5px">
+                    <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Hello</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Welcome to our March edition of the Loop in 2023. Spring is in the air and we are continuing to build on a solid local start to the year. We’re entering the third month of the year with lots of successes across our editorial, marketing and commercial teams. 
+Don't forget to get in touch with us at
+ <a href="mailto:theloopireland@reachplc.com" style="color: #3D5161;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a> for anything you would like to see us cover.
+
+</p>
+            </div>
+          </div>
+          <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Marketing</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">The marketing team attended the Eastside Awards at the Stormont Hotel on behalf of Daily Mirror NI & Belfast Live. The Eastside Awards celebrate all that is special about East Belfast, with awards from Favourite Teacher to Favourite Cafe. Belfast Live continues to place itself at the heart of communities across Northern Ireland and were once again proud sponsors on the night. The love for competitions continues with huge volumes of entries across all our brands. Belfast Live had one of the highest entry rates ever for the Elephant and Rock hotel stay giveaway, with over 4,000 entries. Lastly, ahead of the biggest week of the year for print, we’ve launched our Irish Mirror Racing newsletter. If you're feeling like you're going to have a flutter on Cheltenham it's worth signing up for all the big tips from the Irish Mirror. Pints are on the winner. Giddy Up!
+
+</p>
+              <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/16_2022EastsideAwards_ClassroomAssistant1-Mar-the%20Loop.JPG?raw=true style="width:47%;margin-top:10px;margin-bottom:10px;">
+                <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/16_2022EastsideAwards_ClassroomAssistant2-Mar-the%20Loop.JPG?raw=true style="width:51%;margin-top:10px;margin-bottom:10px;">
+              
+            </div>
+          </div>
+
+          <div id="5mins with">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">5 minutes with...</h1>
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Hugh%20prof%20pic-Feb-the%20Loop.jpg?raw=true style="width:20%;"> 
+             <h2 style="color: #3D5161;font-family: Tahoma;width"> Rayana Zapryanova <br>Dublin Live reporter</h2>
+             
+             <h4 style="color: #3D5161;font-family: Tahoma;">Fun Fact</h4>
+                <p style="color: #3D5161;font-family: Tahoma;">I love writing fictional stories (I'd love to publish something one day) and I usually do a lot of research for them so I have all these random facts in my head that might make me a great pub quiz team member </p>
+              
+            <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">I can barely remember a time when I did not want to be in Media but I fancied becoming an archeologist when I was seven.</p>
+
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">Whatever the latest series/films the internet is obsessing over</p>
+
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">5 minutes with...</h1>
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Hugh%20prof%20pic-Feb-the%20Loop.jpg?raw=true style="width:20%;"> 
+             <h2 style="color: #3D5161;font-family: Tahoma;width"> Rebecca Chira <br>Summer Intern</h2>
+             
+             <h4 style="color: #3D5161;font-family: Tahoma;">Fun Fact</h4>
+                <p style="color: #3D5161;font-family: Tahoma;">... </p>
+              
+            <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">I probably would work in the field of psychology. Either forensics or counseling.</p>
+
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">Chocolate. Always craving a piece.</p>
+
+                         <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Hugh%20prof%20pic-Feb-the%20Loop.jpg?raw=true style="width:20%;"> 
+             <h2 style="color: #3D5161;font-family: Tahoma;width"> Mark Kavanagh <br>Editor, Buzz.ie</h2>
+             
+             <h4 style="color: #3D5161;font-family: Tahoma;">Fun Fact</h4>
+                <p style="color: #3D5161;font-family: Tahoma;">...</p>
+              
+            <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">Have been known to DJ occasionally, and if only there was some money in taking photos at gigs that would be an ideal job</p>
+
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">Gadgets</p>
+
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Hugh%20prof%20pic-Feb-the%20Loop.jpg?raw=true style="width:20%;"> 
+             <h2 style="color: #3D5161;font-family: Tahoma;width"> Zoe Watson <br>Group Picture Editor</h2>
+             
+             <h4 style="color: #3D5161;font-family: Tahoma;">Fun Fact</h4>
+                <p style="color: #3D5161;font-family: Tahoma;">I recently bought shares in a racehorse. This time next year I could be a millionaire.</p>
+              
+            <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">I would definitely have been a trucker, that was always what I told my careers teacher</p>
+
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">South Korean Horror</p>
+
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/Feb-Loop/Feb-img/Hugh%20prof%20pic-Feb-the%20Loop.jpg?raw=true style="width:20%;"> 
+             <h2 style="color: #3D5161;font-family: Tahoma;width"> Justin Millar <br>Senior Marketing Executive</h2>
+             
+             <h4 style="color: #3D5161;font-family: Tahoma;">Fun Fact</h4>
+                <p style="color: #3D5161;font-family: Tahoma;">...</p>
+              
+            <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">I would probably have to put my politics degree to use then and to be honest getting paid to do very little always appeals to me</p>
+
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">Live music - If you want to get me somewhere tell me there will be someone singing at it.</p>
+
+             </div>
+          </div>
+
+          <div id="Inclusion">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Inclusion</h1>
+              <p style="color: #3D5161;font-family: Tahoma;"> We had another Reach Ireland reconnect event in the Belfast office and our first ever in the Dublin office. It was to celebrate Pancake Tuesday where a variety of flavoured pancakes were served up with tasting toppings from Nutella, lemon and sugar, syrup, and whipped cream topped with blueberries and strawberries. It was a day when all diets and healthy eating plans went out the window. It's safe to say everyone's sweet craving was met.  #pancakeday #youbatterbelieveit
+
+								<br> <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/20230221_122604-Mar-the%20Loop.jpg?raw=true style="width:33%;margin-top:10px;margin-bottom:10px;">
+								<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/March-images/20230221_090842.jpg?raw=true style="width:66%;margin-top:10px;margin-bottom:10px;">
+
+
+<br>As of Today, Reach has a new employee assistance provider. All the details are on Buzz but as well as confidential 24/7 counselling, the new provider also offers guided meditations, fitness/nutrition advice plus some other great well-being resources.  
+ </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+
+</html>
