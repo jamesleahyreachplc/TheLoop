@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!-- only copy the highest divs tags into the email the html,head and body tags are not needed -->
+<html>
+
+<head>
+</head>
+
+<body>
+
+  <div id="myDIV" style="background-color:#F8BD41;">
+    <div id="mymain" style="height: 10%;
+  display: flex;
+  flex-flow: column row wrap;padding-top:2%;">
+      <div style="width:35%;padding:5px;margin:5px;">
+        <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;
+  margin-left: auto;margin-right: auto;">
+      </div>
+      <div style="width:30%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Logo.png?raw=true style="max-width:100%;max-height:100%;align:center;"></div>
+      <div style="width:35%;margin:5px;"><img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/icon.png?raw=true style="max-width:50%;max-height:100%;align:center;display: block;margin-left: auto;margin-right: auto;"></div>
+    </div>
+    <div id="myDIV" style="height:100%;">
+      <div id="mymain" style="height: 100%;
+  display: flex;
+  flex-flow: column row wrap;">
+         
+         
+          
+        </div>
+        <div style="width:95%;
+  padding:10px;margin:5px">
+                    <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Hello</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">Hello, Reach Ireland!
+It's that time again as we delve into what’s been happening across our Irish business. So grab your favourite cuppa and take a moment to relax. We hope you enjoy the read 
+</p>
+            </div>
+          </div>
+
+          <div id="5mins with">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Neil Leslie</h1>
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/Rayana.png?raw=true style="width:20%;"> 
+             <h2 style="color: #3D5161;font-family: Tahoma;width">Group Print Editor</h2>
+             
+             <h4 style="color: #3D5161;font-family: Tahoma;">What does your role involve?</h4>
+                <p style="color: #3D5161;font-family: Tahoma;">I am the editor of the Irish Daily Star and Irish Mirror newspapers. We publish over 600 editions a year. We sell around 280,000 copies every week. Also write a column in the Star.</p>
+              
+            <h4 style="color: #3D5161;font-family: Tahoma;">Top 5 dinner guest</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">Mark Hamill. Jim Gavin. Greta Thunberg. Gerry Hutch. Maura Higgins.</p>
+
+
+
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Keri Heatlie</h1>
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/Rebecca%20.JPG?raw=true style="width:20%;"> 
+             <h2 style="color: #3D5161;font-family: Tahoma;width"> Account Manager Commercial Team</h2>             
+            <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">If I wasn't in media I'd love to have been a sports physio, working with a top rugby team (I mean I def haven't given this much thought though..!)</p>
+
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">CI think I probably have different obsessions at different time, Man United are becoming a more continuous obsession every season! As a family growing up they were always our team but since having my son and as he gets older its an obsession we both enjoy together! I also love music and really enjoy going to concerts & live gigs when I can! </p>
+
+
+             <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">Paula Lenihan</h1>
+             <h2 style="color: #3D5161;font-family: Tahoma;width">Editor (RSVP)</h2>
+            <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">Clocked up some interesting travel miles over the course of my career. My belief that it's easier to be a good host than a good guest saw me eat sheep's eyeballs in Kazakhstan and guineapig in Peru. Other places I worled like Lebanon, New York and Talbot St. have been less challenging in culinary terms!</p>
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">Bicycle riding, mystery writing, detective in Cabot Cove.</p>
+
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;"> Mark O'Brien</h1>
+             <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/zoe.jpg?raw=true style="width:20%;">
+             <h2 style="color: #3D5161;font-family: Tahoma;width">Editor, Dublin Live</h2>
+             <h4 style="color: #3D5161;font-family: Tahoma;">Career if I wasn't in Media:</h4>
+             <p style="color: #3D5161;font-family: Tahoma;">Having sampled a number of careers in my time I'm hoping the next one is Lottery millionaire</p>
+            <h4 style="color: #3D5161;font-family: Tahoma;">Greatest Obsession:</h4>
+              <p style="color: #3D5161;font-family: Tahoma;">Football and music - don't ask me to choose just one!</p>
+
+             </div>
+          </div>
+          <div id="Marketing">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <p style="color: #3D5161;font-family: Tahoma;">Reach shines the spotlight on the incredible women of Irish sport. First off, our marketing team celebrated local heroines throughout the country who are making significant strides for women's sports in Ireland. RSVP invited readers to nominate the unsung champions of women's sports – those who toil behind the scenes. From the nominations, a shortlist of 10 finalists were identified and put to a public vote with over 2000 votes cast. The victor emerged as the chairman of Donegal Town FC, an organisation boasting 400 members, committed to enhancing the mental well-being of people within that club
+
+ <br> <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/World%20Cup%20Sky%20.jpg?raw=true style="width:51%;margin-top:10px;margin-bottom:10px;"><br>
+
+<br><br>While on the subject of women's sports, the editorial team wanted to give a big shout-out to Sandra Mallon who is pictured with her trophy for Most Improved Player of the season at Sword Women's Rugby club. Not to be confused as it was by some envious rivals for another showbiz reporting gong. And though it was back in May we can't not mention Zoe Watson who picked up the Women's Championship Manager of the year award at the Northern Ireland Futsal Federation awards. 
+<br><br>t wasn't all play and no work as summer has seen another string of big stories and great editorial energy. We've had journalists joining peacekeeping forces in Lebanon and reporting from the scene of the tragic deaths of hundreds of migrants in Greece. At home the Irish Daily Star/Irish Mirror campaign to highlight rising violence against women has been recognised by the Taoiseach and Justice Minister, and is a good example of a great collaborative effort across the newsroom. We've also led the way on a summer of big stories from the sad deaths of Christy Dignam and Sinead O'Connor to the crisis in RTE. Not to mention Danny De Vall who courageously donned helmet and flak jacket to report from the the frontline of the battle of Drogheda , a town besieged by seagulls. It even earned him an honourable mention as reporter of the day on the morning paper reviews. Where Seagulls Dare! 
+
+
+<br><br>We plan to add a few more social gatherings at the office for chats and catch-ups in the coming weeks so hope to see more faces in Talbot Street which - contrary to rumours that even the seagulls go around in pairs - is actually not that bad!
+ <br> <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/RSVP%20relaunch.jpg?raw=true style="width:31%;margin-top:10px;margin-bottom:10px;">
+<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/RSVP%20LAUNCH%20_32.jpg?raw=true style="width:61%;margin-top:10px;margin-bottom:10px;">
+                               
+ <br><br>Belfast Live and Mirror NI have once again united as media partners for CHSq at the iconic Custom House Square in Belfast. The stage saw international acts like Becky Hill, Belters Only, and Kodaline perform. The Festival partnership season ended with a 2-day dance music festival called Emerge where thousands showed up to watch some of the biggest dance music artists in the world. With prominent branding and activations, it was another incredibly successful year
+ <br> <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/Taste%20of%20Dublin%202.jpg?raw=true style="width:49%;margin-top:10px;margin-bottom:10px;">
+<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/Taste%20of%20dublin%20.jpg?raw=true style="width:49%;margin-top:10px;margin-bottom:10px;">
+
+In Belfast, Reach sponsored a prestigious prize at the 2023 Annual Awards held by Ulster University's School of Communication and Media. The recipient of this award was Berni Neill, Strategic Segment Marketing Manager at Calor Gas, who achieved the highest grade average at Diploma level in the esteemed Postgraduate Programme in Digital Marketing Communication & Leadership.
+                 <br> <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/Aimee%20communicatoins.jpg?raw=true style="width:51%;margin-top:10px;margin-bottom:10px;"><br>
+ <br><br>On the circulation front, the Galway Races delivered a great sales  return across both the Mirror (8.5% week-on-week increase) and the Star (12% week-on-week increase) despite having no free bets this year, which we had last year. The Irish Daily Star also had a free Premier League fixtures magazine on the Friday of Galway week...The cover price increases across the whole Reach Ireland portfolio coincided with return of the Premier League on Saturday 12th August, and early market indications are suggesting that all titles are holding up well and ahead of budget for the month, which is encouraging.
+<img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/RSVP%20relaunch.jpg?raw=true style="width:31%;margin-top:10px;margin-bottom:10px;">
+ <br><br>The Reach Ireland Solutions Teams have introduced a Fantasy Premier League, inviting all staff to step into the shoes of a Premier League player manager. If you're ready for the challenge you can still sign up by visiting <a href="https://sites.google.com/reachplc.com/data-protection-cyber-security/home?authuser=0" style="color: #3D5161;font-family: Tahoma;"><b>link</b></a> using the code "jz6e7f”. To spice things up, we're offering a small prize for the leading team at Christmas and another at the season's close. Leading the charge and it’s early day is Chris Sherrard with Shamrock and Roll! 
+ <br><br>Big shout out to Caroline Christie who has garnered recognition from Zenith media agency.  She has been appointed as a guest judge for their esteemed Zemmie Awards, a special honour in itself, this year. Caroline will undertake the task of evaluating Zenith's digital campaigns to identify the standout one  that shines above the rest. Participating in their all staff WIP,Caroline will announce the winning team and crown them with a well-deserved prize. This opportunity not only highlights Caroline's expertise but also reinforces Reach solutions commitment to fostering collaboration with our agency partners. 
+ <br><br>Now, not only has she participated in several Triathlons herself, but our Business Communications Manager, Aimee Rourke, has recently achieved certification in the Triathlon Ireland TRI Leader Award. This accomplishment allows Aimee to give back to her local club by coaching junior and adult swimmers. Congratulations, Aimee, on this great achievement! 
+ <br><br>Michelle Treacy has just completed an Emergency First Aid (EFA) Course with St John Ambulance Training and she will be the on-site emergency responder first aiders in Dublin. Jenny Murray and Mark O’Brien will be completing their course next week and Nicola Donnan, Sarah Scott and Conal McCann are doing the same in the Belfast hub.</p>
+                
+            </div>
+          </div>
+          
+          <div id="Inclusion">
+            <div id="myHeader" style="background-color: #fed780;padding: 20px;margin: 10px;">
+              <h1 style="color: #3D5161;margin-top: 0px;font-family: Tahoma;">General news</h1>
+              <p style="color: #3D5161;font-family: Tahoma;">CReach has joined forces with Oxfam for their Secondhand September campaign. Starting now, our staff can contribute by bringing in clothes they no longer need and placing them in the designated Oxfam bin. This bin is conveniently located on the Commercial side of the Dublin Hub, right beside the photocopier and in the kitchen within the Belfast Hub.At the end of the month, Reach will organise the transfer of the clothes to local Oxfam shops. This initiative encourages individuals to purchase secondhand items while promoting mindful consumption that benefits both people and the planet. 
+                <br> <img src=https://github.com/jamesleahyreachplc/TheLoop/blob/main/Aug/First%20aid%202.jpg?raw=true style="width:51%;margin-top:10px;margin-bottom:10px;">
+ <br><br>The Reach Ireland Recognition corner is starting this September – an initiative by us  to celebrate your accomplishments. Your efforts won't go unnoticed as your manager will be noting those thoughtful extras you bring to the table. Every month, a deserving individual will be nominated for a recognition award, encompassing exceptional work, kindness, remarkable teamwork, innovation, or even lending a hand to a colleague in times of need. These success stories are meant to shine a light on individual achievements and the positive impact they create within Reach.
+
+ <br><br>And while we are on recognition we want to extend warm birthday wishes to our colleagues in September !! 🎉🎂  We are sending you happy birthday wishes to Luke Jennings,Darragh Culhane,Andrei Scintian,Enda Sheppard,Jane Melia, Michael Scully, James McCarthy, David Mac Redmond,Eithne Dodd,Michelle Townsend, Hugh Crowther, Linda Jane Doherty, Robert Baker, Rayana Zapryanova
+
+ <br><br>Last month, we invited you to share your holiday snaps – and here's a glimpse of the trips from  Ireland to all corners of Europe.
+
+<br><br>As the new school year dawns we extend our hopes for a smooth and seamless transition. Please share your pictures in next month's edition by reaching out to us at <a href="mailto:theloopireland@reachplc.com" style="color: #3D5161;font-family: Tahoma;"><b>theloopireland@reachplc.com</b></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+
+</html>
