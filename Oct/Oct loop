@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<!-- only copy the highest divs tags into the email the html,head and body tags are not needed -->
-<html>
-
-<head>
-</head>
-
-<body>
-
-  <div id="myDIV" style="background-color:#F8BD41;">
+ <div id="myDIV" style="background-color:#F8BD41;">
     <div id="mymain" style="height: 10%;
   display: flex;
   flex-flow: column row wrap;padding-top:2%;">
@@ -128,7 +119,3 @@ If you're undertaking an Annual Leave Press Trip or Press Travel you will need t
         </div>
       </div>
     </div>
-
-
-</body>
-</html>
